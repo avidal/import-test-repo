@@ -1,4 +1,4 @@
-package sub1 // import "code.heyviddy.com/import-path-test/sub1"
+package sub1 // import "code.heyviddy.com/import-test-repo/sub1"
 
 import "github.com/avidal/import-test-repo/sub1/sub2"
 
